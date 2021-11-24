@@ -615,8 +615,8 @@ async def play(_, message: Message):
                     InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton(" 🥀Masuulka ", url=f"https://t.me/@AttackTor"),
-                    InlineKeyboardButton("👥 𝙅𝙊𝙄𝙉 𝘿𝙃𝙀𝙃 ", url=f"https://t.me/somalibots"),
+                    InlineKeyboardButton(" 🥀𝗔𝗧𝗧𝗔𝗖𝗞 ", url=f"https://t.me/@AttackTor"),
+                    InlineKeyboardButton("👥 𝗧𝗔𝗔𝗕𝗢 ", url=f"https://t.me/somalibots"),
                 ],
                 [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
             ]
@@ -726,8 +726,8 @@ async def play(_, message: Message):
                         InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
                     ],
                     [
-                        InlineKeyboardButton("🥀MasuulKa⚡", url=f"https://t.me/AttackTor"),
-                        InlineKeyboardButton("👥 𝙅𝙊𝙄𝙉 𝘿𝙃𝙀𝙃 ", url=f"https://t.me/somalibots"),
+                        InlineKeyboardButton("🥀𝗔𝗧𝗧𝗔𝗖𝗞⚡", url=f"https://t.me/AttackTor"),
+                        InlineKeyboardButton("👥 𝗧𝗔𝗔𝗕𝗢 ", url=f"https://t.me/somalibots"),
                     ],
                     [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
                 ]
@@ -882,8 +882,8 @@ async def ytplay(_, message: Message):
                 InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
             ],
             [
-                InlineKeyboardButton(" 🥀 MasuulKa ⚡", url=f"https://t.me/AttackTor"),
-                InlineKeyboardButton("👥 𝙅𝙊𝙄𝙉 𝘿𝙃𝙀𝙃 ", url=f"https://t.me/somalibots"),
+                InlineKeyboardButton(" 🥀 𝗔𝗧𝗧𝗔𝗖𝗞 ⚡", url=f"https://t.me/AttackTor"),
+                InlineKeyboardButton("👥 𝗧𝗔𝗔𝗕𝗢 ", url=f"https://t.me/somalibots"),
             ],
             [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
         ]
@@ -1138,8 +1138,8 @@ async def lol_cb(b, cb):
                 InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
             ],
             [
-                InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/AttackTor"),
-                InlineKeyboardButton("👥 𝙅𝙊𝙄𝙉 𝘿𝙃𝙀𝙃 ", url=f"https://t.me/somalibots"),
+                InlineKeyboardButton("𝗔𝗧𝗧𝗔𝗖𝗞 🥀", url=f"https://t.me/AttackTor"),
+                InlineKeyboardButton("👥 𝗧𝗔𝗔𝗕𝗢 ", url=f"https://t.me/somalibots"),
             ],
             [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
         ]
