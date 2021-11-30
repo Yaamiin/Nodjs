@@ -615,7 +615,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton(" 🥀𝗔𝗧𝗧𝗔𝗖𝗞 ", url=f"https://t.me/@AttackTor"),
+                    InlineKeyboardButton(" 𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋviolet♥︎アミナ ", url=f"https://t.me/VioletBack"),
                     InlineKeyboardButton("👥 𝗧𝗔𝗔𝗕𝗢 ", url=f"https://t.me/somalibots"),
                 ],
                 [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
@@ -726,7 +726,7 @@ async def play(_, message: Message):
                         InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
                     ],
                     [
-                        InlineKeyboardButton("🥀𝗔𝗧𝗧𝗔𝗖𝗞⚡", url=f"https://t.me/AttackTor"),
+                        InlineKeyboardButton("𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋviolet♥︎アミナ⚡", url=f"https://t.me/VioletBack"),
                         InlineKeyboardButton("👥 𝗧𝗔𝗔𝗕𝗢 ", url=f"https://t.me/somalibots"),
                     ],
                     [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
@@ -882,7 +882,7 @@ async def ytplay(_, message: Message):
                 InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
             ],
             [
-                InlineKeyboardButton(" 🥀 𝗔𝗧𝗧𝗔𝗖𝗞 ⚡", url=f"https://t.me/AttackTor"),
+                InlineKeyboardButton(" 🥀 𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋviolet♥︎アミナ ⚡", url=f"https://t.me/VioletBack"),
                 InlineKeyboardButton("👥 𝗧𝗔𝗔𝗕𝗢 ", url=f"https://t.me/somalibots"),
             ],
             [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
@@ -1138,7 +1138,7 @@ async def lol_cb(b, cb):
                 InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
             ],
             [
-                InlineKeyboardButton("𝗔𝗧𝗧𝗔𝗖𝗞 🥀", url=f"https://t.me/AttackTor"),
+                InlineKeyboardButton("𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋviolet♥︎アミナ ", url=f"https://t.me/VioletBack"),
                 InlineKeyboardButton("👥 𝗧𝗔𝗔𝗕𝗢 ", url=f"https://t.me/somalibots"),
             ],
             [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
